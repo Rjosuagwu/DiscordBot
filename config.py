@@ -1,2 +1,0 @@
-bot_token="MTEyNjI1NzgzNjI1NTYyMTEzMA.Gq3JM0.MDU4FseK_Un1oq1JQ0O2fKD07td8DN4z44Xu0Y"
-joke_token = "9e55b998e7msh7926d7a2d0c3e78p149696jsne497114aedee"
