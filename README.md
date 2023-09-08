@@ -79,11 +79,6 @@ My Awesome Discord Bot is built using the following technologies, languages, fra
 - [FFmpeg](https://ffmpeg.org/): A multimedia framework used for processing audio and video files.
 - [Git](https://git-scm.com/): Version control system for tracking changes and collaborating on the codebase.
 
-## License
-
-Specify the license under which your project is distributed. For example:
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 Any queries, shoot me a message on Linkden availiable on my Github Profile
