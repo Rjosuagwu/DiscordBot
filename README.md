@@ -57,6 +57,10 @@ Follow these steps to set up and run My Awesome Discord Bot on your local machin
 
 2. Your bot should now be online and active on your Discord server. You can use the provided commands to interact with the bot.
 
+### Usage
+
+![Image](usage.png)
+
 ### Customization
 
 - You can customize the bot's prefix, command names, and more in the `mainbot.py` file.
